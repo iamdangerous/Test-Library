@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--<style name="CardLayout">-->
+        <!--<item name="cardElevation">10dp</item>-->
+        <!--<item name="cardBackgroundColor">@android:color/holo_red_dark</item>-->
+        <!--<item name="cardCornerRadius">0dp</item>-->
+    <!--</style>-->
+</resources>
