@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources
-    xmlns:app="http://schemas.android.com/apk/res-auto">
+    >
 
-    <style name="CardLayout">
-        <item name="cardElevation">@dimen/test_number</item>
-        <item name="cardBackgroundColor">@color/red</item>
-        <item name="cardCornerRadius">@dimen/test_number</item>
-    </style >
+  <style name="CardLayout" parent="CardView">
+    <item name="cardElevation">@dimen/test_number</item>
+    <item name="cardBackgroundColor">@color/red</item>
+    <item name="cardCornerRadius">@dimen/test_number</item>
+  </style>
 </resources>

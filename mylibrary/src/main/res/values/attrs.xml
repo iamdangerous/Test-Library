@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <attr name="myCardElevation" format="reference|dimension" />
+  <attr name="myCardBackgroundColor" format="reference|color" />
+  <attr name="myCardCornerRadius" format="reference|dimension" />
+</resources>
